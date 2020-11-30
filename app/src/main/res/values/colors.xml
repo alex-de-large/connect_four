@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="boardColor">#1D5EBD</color>
+    <color name="pieceColor1">#d8112e</color>
+    <color name="pieceColor2">#e9cf5c</color>
+    <color name="lineColor">#04D344</color>
+    <color name="boardColor2">#5491ce</color>
+    <color name="cellsColor">#505869</color>
+    <color name="white">#ffffff</color>
+</resources>
